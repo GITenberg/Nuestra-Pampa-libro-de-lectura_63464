@@ -1,0 +1,25 @@
+_repo: Nuestra-Pampa-libro-de-lectura_63464
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Molins, W. Jaime (Wenceslao Jaime)
+    alias: Molins, Wenceslao Jaime
+    birthdate: 1882
+    deathdate: 1965
+    gutenberg_agent_id: '52461'
+    url: http://www.gutenberg.org/2009/agents/52461
+description: ''
+gutenberg_issued: '2020-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63464'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'La Pampa (Argentina : Province) -- Description and travel'
+- !lcc 'F2801'
+- GITenberg
+title: Nuestra Pampa; libro de lectura
+url: http://www.gutenberg.org/ebooks/63464
